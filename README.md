@@ -37,7 +37,7 @@ Most breaches involve a person: a phishing click, a misused account, an access t
 
 ## 📫 Contact
 - Email: ericsturdivant5@gmail.com
-- LinkedIn: [add your link]
+- LinkedIn: [linkedin.com/in/eric-sturdivant](https://www.linkedin.com/in/eric-sturdivant/)
 
 ---
 *Everything in my repos is original or fully sanitized. No employer data.*
